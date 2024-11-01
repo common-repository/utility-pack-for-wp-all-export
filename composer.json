@@ -1,0 +1,14 @@
+{
+  "name": "codingchicken/utility-pack-for-wp-all-export",
+  "description": "Utility Pack for WP All Export - requires WP All Export",
+  "minimum-stability": "stable",
+  "license": "GPLv2 or later",
+  "authors": [
+    {
+      "name": "Coding Chicken",
+      "email": "support@codingchicken.com"
+    }
+  ],
+  "require": {
+  }
+}
